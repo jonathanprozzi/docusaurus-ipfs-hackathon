@@ -1,12 +1,12 @@
 ---
 slug: congratulations
 sidebar_position: 6
-id: doc1
-title: Congratulations
+id: hack-the-planet
+title: Hack the planet!
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: Congratulations
-image: hack-the-planet.jpeg
+sidebar_label: Hack the Planet!
+image: ""
 ---
 
 # Congratulations!
